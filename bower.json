@@ -1,0 +1,29 @@
+{
+  "name": "p-loading",
+  "license": "MIT",
+  "authors": [
+    "Jose Zuniga <jose_zuma@hotmail.com>"
+  ],
+  "description": "Loading mask plugin for jQuery.",
+  "homepage": "http://joseshiru.github.io/p-loading/",
+  "keywords": [
+    "jquery-plugin",
+    "jquery",
+    "loading",
+    "spinner",
+    "mask",
+    "plugins"
+  ],
+  "main": "src/js/p-loading.js",
+  "dependencies": {
+    "jquery": "1"
+  },
+  "ignore": [
+    "npm-debug.log",
+    "bower_components",
+    "node_modules",
+    "**/.*",
+    "test",
+    "tests"
+  ]
+}
