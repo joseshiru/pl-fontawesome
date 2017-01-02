@@ -20,11 +20,17 @@ Start including the pl-fontawesome.js after the p-loading script:
 Then include the CSS file after the P-loading CSS file:
 
 ```
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
 <link rel="stylesheet" type="text/css" href="dist/css/p-loading.min.css" />
+
 <link rel="stylesheet" type="text/css" href="dist/css/pl-fontawesome.min.css" />
 ```
 
+Or by just installing it through NPM (works in Meteor as well):
+``` npm install pl-fontawesome```
 
+Important: the Fontawesome resources are not included as many people use different ways how to implement it (CDN, etc). For this case we'll include the files by using a CDN.
 
 ##### New Settings
 

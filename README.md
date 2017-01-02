@@ -3,7 +3,7 @@
 PL-fontawesome is an add-on for the P-Loading jQuery plugin that displays  fontawesome icons inside the loading mask.
 
  
-![alt text](https://s32.postimg.org/f116tc4tx/plprogress.gif "demo")
+![alt text](https://s27.postimg.org/cayz1ye5f/pl_fontawesome.gif "demo")
 
 
 ### Current version
